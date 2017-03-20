@@ -1,3 +1,5 @@
+[![DeepScan Grade](https://deepscan.io/api/projects/26/branches/32/badge/grade.svg)](https://deepscan.io/dashboard/#view=project&pid=26&bid=32)
+
 # graphite
 Graphite is the Graphical Editing Framework. With this framework you can easily build your own WYSIWYG graphical editor such as flow-chart, prototype tool, ui builder and modeling tool. Graphite keeps an eye on your model, major purpose of this framework is editing your model graphically. To support this effectively, Graphite is composed of MVC. [Graphite View](#graphite-view) takes charge for View and [Graphite Editor](#graphite-editor) is for Controller. [Graphite Editor](#graphite-editor) is now in developing.
 
